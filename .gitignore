@@ -1,0 +1,6 @@
+.DS_Store
+laba2_variant5/laba2
+laba2_variant5/laba2-cpp
+laba2_variant5/cpp/build/
+laba2_variant5/cpp/build-*/
+*.test

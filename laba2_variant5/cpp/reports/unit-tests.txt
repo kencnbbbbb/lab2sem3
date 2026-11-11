@@ -1,0 +1,14 @@
+PASS hash linear against independent map
+PASS hash double against independent map
+PASS hash collision cluster and tombstones
+PASS set duplicate and empty keys
+PASS LR1 stack and expandable array
+PASS task1 DAG cycles and invalid input
+PASS task3 genome pairs multiplicity and bounds
+PASS task4 dictionary and Unicode
+PASS task5 recovery preserving node order
+PASS task5 malformed and non-repairable trees
+PASS task6 hierarchy and both hash modes
+PASS task7 examples integer keys and zero capacity
+PASS LRU randomized against independent ordered model
+PASS: 13 groups, 80382 assertions

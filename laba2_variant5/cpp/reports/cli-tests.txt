@@ -1,0 +1,11 @@
+PASS provided examples
+PASS random graphs and long DAG
+PASS random genomes and maximum length
+PASS stress dictionary and Unicode
+PASS all BST swaps and deep tree
+PASS hierarchies in both hash modes
+PASS random LRU model
+PASS shared JSON files and failed writes
+PASS malformed inputs and menu
+PASS hash experiment reproducibility
+PASS: 583 scenarios, 1125 process runs; C++ and Go agree

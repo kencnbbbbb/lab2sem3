@@ -1,0 +1,4 @@
+ok  	laba2	(cached)
+ok  	laba2/str	(cached)
+ok  	laba2/tasks	(cached)
+go vet ./...: exit 0
